@@ -1,7 +1,7 @@
 <div>
   
   <h1 align="center">
-    Seja Bem-vindo(a) 
+    Seja Bem-vindo(a), me chamo 
     <a href="https://www.linkedin.com/in/igor-santos-de-macedo-b12754191/">Igor Macedo 😉 </a>
   </h1>
   
