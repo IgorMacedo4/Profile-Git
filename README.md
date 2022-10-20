@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou Aluno de Análise e desenvolvimento de sistemas e queria ta compartilhando meu meus projetos e evolução aqui.
+    Sou Aluno de Análise e desenvolvimento de sistemas e queria ta compartilhando meus projetos e evolução aqui.
       </p>  
 </div>
 
