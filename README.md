@@ -43,6 +43,6 @@
 </div>
 
 <div align="center">
-<img src= "https://user-images.githubusercontent.com/111071382/197095588-1cdba8f1-e029-497a-b7fa-fca02f18be13.gif" height="20px" wigth ="20px"/>
+<img src= "https://user-images.githubusercontent.com/111071382/197251891-c034eefe-6b06-4670-adbb-11dd2b9452a5.gif" height="42px" wigth ="42px"/>
 </div>
 
