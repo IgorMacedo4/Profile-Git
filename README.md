@@ -42,3 +42,6 @@
   
 </div>
 
+<div align="center">
+<img src= "https://user-images.githubusercontent.com/111071382/197095588-1cdba8f1-e029-497a-b7fa-fca02f18be13.gif" height="50px" wigth ="50px"/>
+</div>
