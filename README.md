@@ -1,8 +1,9 @@
+
 <div>
-  
   <h1 align="center">
+    <img src= "https://user-images.githubusercontent.com/111071382/197784263-febd35d5-a694-484c-87a7-50a7d68f018d.gif" height="70px" wigth ="70px"/>
     Seja Bem-vindo(a), me chamo 
-    <a href="https://www.linkedin.com/in/igor-santos-de-macedo-b12754191/">Igor Macedo  </a>
+    <a href="https://www.linkedin.com/in/igor-santos-de-macedo-b12754191/">Igor Macedo</a><img src= "https://user-images.githubusercontent.com/111071382/197787748-2d3bedbc-d97a-413a-afef-5167c112d138.gif" height="70px" wigth ="70px"/>
   </h1>
   
   <p align="center">
@@ -45,4 +46,5 @@
 <div align="center">
 <img src= "https://user-images.githubusercontent.com/111071382/197251891-c034eefe-6b06-4670-adbb-11dd2b9452a5.gif" height="42px" wigth ="42px"/>
 </div>
+
 
